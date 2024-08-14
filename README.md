@@ -77,37 +77,37 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
   # 5.1 Visualização Geoespacial
 
-    • 5.1.1 Mapa do Distrito Federal: Visualização básica do mapa do Distrito Federal.
+  • 5.1.1 Mapa do Distrito Federal: Visualização básica do mapa do Distrito Federal.
 
-    • 5.1.2 Mapa dos Hubs: Plotagem dos hubs logísticos no mapa.
+  • 5.1.2 Mapa dos Hubs: Plotagem dos hubs logísticos no mapa.
 
-    • 5.1.3 Mapa das Entregas: Visualização das entregas realizadas em diferentes regiões.
+  • 5.1.3 Mapa das Entregas: Visualização das entregas realizadas em diferentes regiões.
 
-    • 5.1.4 Visualização das Entregas por Região: Visualização detalhada das entregas segmentadas por região.
+  • 5.1.4 Visualização das Entregas por Região: Visualização detalhada das entregas segmentadas por região.
 
    # 5.2 Gráfico de Entregas por Região
 
-    • 5.2.1: Visualização gráfica mostrando a proporção de entregas por região, ajudando a identificar concentrações e            possíveis desbalanceamentos nas operações.
+   • 5.2.1: Visualização gráfica mostrando a proporção de entregas por região, ajudando a identificar concentrações e            possíveis desbalanceamentos nas operações.
 
    # 5.3 Mapa de Proporção de Entregas por Cidade
 
-    • 5.3.1: Preparação dos dados geoespaciais para criar um mapa que mostre a proporção de entregas em cada cidade do            Distrito Federal.
+   • 5.3.1: Preparação dos dados geoespaciais para criar um mapa que mostre a proporção de entregas em cada cidade do            Distrito Federal.
 
-    • 5.3.2: Visualização no mapa das cidades com maior densidade de entregas, destacando áreas que podem necessitar de           recursos logísticos adicionais.
+   • 5.3.2: Visualização no mapa das cidades com maior densidade de entregas, destacando áreas que podem necessitar de           recursos logísticos adicionais.
 
-    # 5.4 Mapa de Tempo Médio de Entrega por Cidade
+   # 5.4 Mapa de Tempo Médio de Entrega por Cidade
 
-    • 5.4.1: Criação de um mapa que ilustra o tempo médio de entrega por cidade, ajudando a identificar regiões onde as           entregas podem estar sendo menos eficientes.
+   • 5.4.1: Criação de um mapa que ilustra o tempo médio de entrega por cidade, ajudando a identificar regiões onde as           entregas podem estar sendo menos eficientes.
 
-    # 5.5 Mapa de Utilização da Capacidade por Região
+   # 5.5 Mapa de Utilização da Capacidade por Região
 
-    • 5.5.1: Cálculo e visualização da utilização da capacidade dos veículos por região, identificando regiões onde os            recursos logísticos podem estar subutilizados ou sobrecarregados.
+   • 5.5.1: Cálculo e visualização da utilização da capacidade dos veículos por região, identificando regiões onde os            recursos logísticos podem estar subutilizados ou sobrecarregados.
 
-    # 5.6 Análise Gráfica da Eficiência das Rotas
+   # 5.6 Análise Gráfica da Eficiência das Rotas
 
-    • 5.6.1: Visualização da distribuição das distâncias percorridas pelos veículos, permitindo uma análise detalhada da          eficiência das rotas.
+   • 5.6.1: Visualização da distribuição das distâncias percorridas pelos veículos, permitindo uma análise detalhada da          eficiência das rotas.
 
-    # Conclusão
+   # Conclusão
 
     A análise exploratória dos dados logísticos da Loggi forneceu insights valiosos para otimizar a eficiência operacional.     Identificamos padrões de entrega, analisamos a capacidade dos veículos, otimizamos rotas, e visualizamos a distribuição     geográfica das operações. Esses insights permitem à Loggi tomar decisões estratégicas fundamentadas, melhorando a           alocação de recursos e a satisfação do cliente.
 
