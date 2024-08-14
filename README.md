@@ -75,7 +75,7 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
   # 5. Análise Gráfica
 
-    5.1 Visualização Geoespacial
+  # 5.1 Visualização Geoespacial
 
     • 5.1.1 Mapa do Distrito Federal: Visualização básica do mapa do Distrito Federal.
 
