@@ -85,11 +85,11 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
     • 5.1.4 Visualização das Entregas por Região: Visualização detalhada das entregas segmentadas por região.
 
-    5.2 Gráfico de Entregas por Região
+   # 5.2 Gráfico de Entregas por Região
 
     • 5.2.1: Visualização gráfica mostrando a proporção de entregas por região, ajudando a identificar concentrações e            possíveis desbalanceamentos nas operações.
 
-    5.3 Mapa de Proporção de Entregas por Cidade
+   # 5.3 Mapa de Proporção de Entregas por Cidade
 
     • 5.3.1: Preparação dos dados geoespaciais para criar um mapa que mostre a proporção de entregas em cada cidade do            Distrito Federal.
 
@@ -99,11 +99,11 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
     • 5.4.1: Criação de um mapa que ilustra o tempo médio de entrega por cidade, ajudando a identificar regiões onde as           entregas podem estar sendo menos eficientes.
 
-    5.5 Mapa de Utilização da Capacidade por Região
+    # 5.5 Mapa de Utilização da Capacidade por Região
 
     • 5.5.1: Cálculo e visualização da utilização da capacidade dos veículos por região, identificando regiões onde os            recursos logísticos podem estar subutilizados ou sobrecarregados.
 
-    5.6 Análise Gráfica da Eficiência das Rotas
+    # 5.6 Análise Gráfica da Eficiência das Rotas
 
     • 5.6.1: Visualização da distribuição das distâncias percorridas pelos veículos, permitindo uma análise detalhada da          eficiência das rotas.
 
