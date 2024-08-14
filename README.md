@@ -109,12 +109,7 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
    # Conclusão
 
-    A análise exploratória dos dados logísticos da Loggi forneceu insights valiosos para otimizar a eficiência operacional.     Identificamos padrões de entrega, analisamos a capacidade dos veículos, otimizamos rotas, e visualizamos a distribuição     geográfica das operações. Esses insights permitem à Loggi tomar decisões estratégicas fundamentadas, melhorando a           alocação de recursos e a satisfação do cliente.
-
-    
-
-    
-
+   A análise exploratória dos dados logísticos da Loggi forneceu insights valiosos para otimizar a eficiência operacional. Identificamos padrões de entrega, analisamos a capacidade dos veículos, otimizamos rotas, e visualizamos a distribuição geográfica das operações. Esses insights permitem à Loggi tomar decisões estratégicas fundamentadas, melhorando a alocação de recursos e a satisfação do cliente.
     
     
 
