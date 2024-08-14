@@ -61,9 +61,9 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
   • 3.8.2: Visualização da distribuição da utilização da capacidade dos veículos para identificar padrões e possíveis            otimizações.
 
-  # 3.11 Otimização de Rotas
+  # 3.9 Otimização de Rotas
 
-  • 3.11.1: Cálculo da distância total percorrida por cada veículo para cada entrega, permitindo a análise da eficiência das 
+  • 3.9.1: Cálculo da distância total percorrida por cada veículo para cada entrega, permitindo a análise da eficiência das 
     rotas atuais.
 
   # 4. Manipulação e Enriquecimento dos Dados
